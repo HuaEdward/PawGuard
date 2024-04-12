@@ -2,11 +2,6 @@
 #include <vector>
 #include <algorithm>
 #include <string>
-#include <fstream>
-
-// 0 5 15 6 15 7 30 1 1
-// 1 9 30 8 25 8 55 1 0
-// 1 10 100 11 50 15 33 1 1
 
 using namespace std;
 
@@ -98,20 +93,9 @@ int main() {
     // Calculate and print the score
     double score = calculateScore(values, weights);
     
-    // Create an ofstream object
-    ofstream outFile("score.txt");
-    
-    // Check if the file is open
-    if (!outFile) {
-        cout << "Unable to open file";
-        return 1;
-    }
-    
+    int finalScore = score * 10000;
     // Write the score to the file
-    outFile << "Score: " << score << endl;
-    
-    // Close the file
-    outFile.close();
+    cout << "Score: " << finalScore << endl;
     
     return 0;
 }
