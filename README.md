@@ -12,6 +12,7 @@ Sample input:
 Cat 1 9 30 8 25 8 55 1 0
 ```
 
+
 In the 'Contracts' foler, a smart contract is built to reward an NFT for the user who gets a score over 7000.
 
 ![未命名文件 (1)](https://github.com/HuaEdward/PawChain/assets/102205131/c042da08-cfea-42ee-b0e8-23348ee02553)
