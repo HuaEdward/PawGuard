@@ -1,6 +1,8 @@
 # PawChain
 A pet holder readiness evaluation model with NFT rewards and DAO oversight
 
+<img width="794" alt="Screenshot 2024-04-15 at 8 05 59 PM" src="https://github.com/HuaEdward/PawChain/assets/102205131/54e61147-50f6-4b0a-a780-1f6a953c77ff">
+
 More analyzing models for pets: https://github.com/HuaEdward/analyzing-models-for-pets-1.0
 
 # Instructions
