@@ -5,8 +5,9 @@ More analyzing models for pets: https://github.com/HuaEdward/analyzing-models-fo
 
 # Instructions
 In the 'MathModel' folder, the maths model built for evaluating the readiness of a person to become a qualified pet owner.
-* Input to the code as: the specie of the pet (`Cat`, `Dog`, `Rabbit`, `Hamster`, `Lizard`) + each value of the factors
-* 
+
+Input to the code as: the specie of the pet (`Cat`, `Dog`, `Rabbit`, `Hamster`, `Lizard`) + each value of the factors
+
 <img width="1232" alt="Screenshot 2024-04-15 at 8 02 13 PM" src="https://github.com/HuaEdward/PawChain/assets/102205131/2820d570-8ce6-41d6-8aa2-c3f750924ec0">
 
 Sample input: `Cat 1 9 30 8 25 8 55 1 0`
