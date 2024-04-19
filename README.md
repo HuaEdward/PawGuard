@@ -1,7 +1,7 @@
-# PawChain
+# PawGuard
 A pet holder readiness evaluation model with NFT rewards and DAO oversight
 
-<img width="794" alt="Screenshot 2024-04-15 at 8 05 59 PM" src="https://github.com/HuaEdward/PawChain/assets/102205131/54e61147-50f6-4b0a-a780-1f6a953c77ff">
+<img width="759" alt="Screenshot 2024-04-18 at 11 53 23 PM" src="https://github.com/HuaEdward/PawChain/assets/102205131/d910433d-4a83-4b62-9ff0-00899fb5a6f1">
 
 More analyzing models for pets: https://github.com/HuaEdward/analyzing-models-for-pets-1.0
 
