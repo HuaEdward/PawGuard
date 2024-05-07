@@ -16,6 +16,10 @@ contract PawNFT is ERC721, Ownable {
         address initialOwner
     ) ERC721("PawNFT", "Paw") Ownable(initialOwner) {}
 
+    function _baseURI() internal pure override returns (string memory) {
+        return "https://raw.githubusercontent.com/HuaEdward/PawGuard/main/Contracts/url.json";
+    }
+
     function safeMint(address to, uint256 score, string memory species) public onlyOwner {
         require(!_hasMinted[to], "This address has already minted an NFT.");
         require(score > _scoreThreshold, "Score must be greater than 6500.");
